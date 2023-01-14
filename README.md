@@ -3,7 +3,7 @@
 # Carolyn Pugh
  
 ## Introduction
-I'm a first year MURP student at UCLA with a background in environmental science. I came to grad school to study climate change and urban design.  
+I'm a first year MURP student at UCLA with a background in environmental science. I came to grad school with a focus on climate change and urban design.  
 
 ## Course Description and Objectives
 This is a GIS and Spatial Data Science course that focuses on visual representations of data to inform urban policy (maps!).  My objectives are to learn the basics of coding using python, be able to create visually appealing maps, and end up with an interesting project that I can use in a portfolio.
